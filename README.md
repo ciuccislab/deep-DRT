@@ -2,7 +2,7 @@
 ## deep-DRT model to deconvolves the DRT from multidimensional EIS data
 
 
-This repository contains some of the source code used for the paper titled *The Probabilistic Deconvolution of the Distribution of Relaxation Times with Finite Gaussian Processes*. Electrochimica Acta, 413, 140119. https://doi.org/10.1016/j.electacta.2022.140119. The article is available online at [Link](https://doi.org/10.1016/j.electacta.2022.140119) and in the [docs](docs) folder.
+This repository contains some of the source code used for the paper titled *The deep-DRT: A deep neural network approach to deconvolve the distribution of relaxation times from multidimensional electrochemical impedance spectroscopy data*. Electrochimica Acta, 413, 140119. https://doi.org/10.1016/j.electacta.2021.139010. The article is available online at [Link](https://doi.org/10.1016/j.electacta.2021.139010) and in the [docs](docs) folder.
 
 # Introduction
 Electrochemical impedance spectroscopy (EIS) is a widely used characterization method in electrochemistry to gain
